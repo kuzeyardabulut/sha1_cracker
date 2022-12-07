@@ -13,4 +13,5 @@ You should compile the code with ```cargo build --release``` parameter. Then you
 
 You should give a two argument. First one for wordlist. Second one for hash. 
 >Usage: <wordlist.txt> <sha1_hash>
+
 ![image](https://user-images.githubusercontent.com/54737933/206112115-f091caa9-d16c-45b2-8eb2-042aa0571657.png)
